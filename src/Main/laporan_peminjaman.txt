@@ -1,0 +1,62 @@
+-------------------------------
+LAPORAN PEMINJAMAN RUANGAN RTB
+-------------------------------
+
+LIST AKUN ADMIN
+-----------------------------------------
+Username            |Password
+-----------------------------------------
+RTB2023             |RTB2023
+Midoriya            |Izuku
+12345678901234567890|12345678901234567890
+Udin                |Udon
+-----------------------------------------
+
+LIST AKUN PEMINJAM
+----------------------------------------------------------------------------------------------
+Username            |Password            |Nama lengkap                  |Kelas     |Gender
+----------------------------------------------------------------------------------------------
+Raclette            |raclette123         |Ichika Nakano                 |PPBP 3    |Perempuan
+AllForOne           |oneforall123        |Naruto Uzumaki                |PPTI 15   |Laki-laki
+CalculusMematikan   |hidupcoding         |Dexter Valerian Krisnadhi     |PPTI 14   |Laki-laki
+andreas             |andreas             |andreas                       |PPTI 14   |Laki-laki
+Nat                 |Nat                 |Nat                           |PPTI 14   |Perempuan
+eas                 |aaa                 |aaa                           |PPTI 11   |Laki-laki
+----------------------------------------------------------------------------------------------
+
+LIST PEMINJAMAN DAPUR
+------------------------------------------------------------------------------------------------
+Tanggal   |Jam mulai|Jam selesai|Nama                          |Kelas     |Gender    |Jml tungku
+------------------------------------------------------------------------------------------------
+12/3/2023 |22:30     |23:30     |Dexter Valerian Krisnadhi     |PPTI 14   |Laki-laki |1
+2/5/2023  |12:12     |13:13     |Nat                           |PPTI 14   |Perempuan |1
+------------------------------------------------------------------------------------------------
+
+LIST PEMINJAMAN KOMUNAL
+------------------------------------------------------------------------------------------------
+Tanggal   |Jam mulai|Jam selesai|Nama                          |Kelas     |Gender    |Lantai
+------------------------------------------------------------------------------------------------
+12/3/2023 |22:30     |23:30     |Dexter Valerian Krisnadhi     |PPTI 14   |Laki-laki |1
+30/4/2023 |12:45     |13:55     |andreas                       |PPTI 14   |Laki-laki |2
+30/4/2023 |13:55     |14:55     |andreas                       |PPTI 14   |Laki-laki |3
+30/4/2023 |14:55     |16:30     |andreas                       |PPTI 14   |Laki-laki |3
+30/4/2023 |17:44     |18:44     |andreas                       |PPTI 14   |Laki-laki |2
+30/4/2023 |22:30     |23:30     |andreas                       |PPTI 14   |Laki-laki |3
+1/5/2023  |12:30     |14:30     |Nat                           |PPTI 14   |Perempuan |1
+------------------------------------------------------------------------------------------------
+
+LIST PEMINJAMAN MESIN CUCI
+------------------------------------------------------------------------------------------------
+Tanggal   |Jam mulai|Jam selesai|Nama                          |Kelas     |Gender    |Jml mesin
+------------------------------------------------------------------------------------------------
+12/3/2023 |22:30     |23:30     |Dexter Valerian Krisnadhi     |PPTI 14   |Laki-laki |1
+30/4/2023 |13:45     |14:45     |Nat                           |PPTI 14   |Perempuan |2
+------------------------------------------------------------------------------------------------
+
+LIST PEMINJAMAN SERBAGUNA
+------------------------------------------------------------------------------------------------
+Tanggal   |Jam mulai|Jam selesai|Nama                          |Kelas     |Gender    |Luas
+------------------------------------------------------------------------------------------------
+12/3/2023 |22:30     |23:30     |Dexter Valerian Krisnadhi     |PPTI 14   |Laki-laki |1/2 ruang
+30/4/2023 |12:30     |14:15     |Nat                           |PPTI 14   |Perempuan |1 ruang
+------------------------------------------------------------------------------------------------
